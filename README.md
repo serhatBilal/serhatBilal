@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1>
-<h3 align="center">I graduated from 🎓 Sakarya University Computer Science department.<br/> I am trying to improve myself in Back End and Mobile Development. 👀</h3>
+<h3 align="center">I graduated from 🎓 Sakarya University Computer Science & Engineering department.<br/> I am trying to improve myself in Back End and Mobile Development. 👀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatbilal&label=Profile%20views&color=0e75b6&style=flat" alt="serhatbilal" /> </p>
 
