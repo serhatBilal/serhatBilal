@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **.Net, Flutter, GO**
 
-- 📫 How to reach me **serhat.bilal@ogr.sakarya.edu.tr**
+- 📫 How to reach me **serhat.bilal92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
