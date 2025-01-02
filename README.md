@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serhatbilal" alt="serhatbilal" /></a> </p>
 
-- 🌱 I’m currently learning **GO**
-
-- 💬 Ask me about **.Net, Flutter, GO**
+- 💬 Ask me about **.Net, Flutter, Python**
 
 - 📫 How to reach me **serhat.bilal92@gmail.com**
 
